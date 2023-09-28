@@ -1,0 +1,156 @@
+@import url("reset.css");
+
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap");
+
+body {
+	font-family: 'Inter', sans-serif;
+	font-size: 18px;
+	color: #7D7D7D;
+}
+
+.title {
+	font-family: 'Poppins', sans-serif;
+	color: #37393F;
+	line-height: 1.27;
+}
+
+/* task-1 */
+.task-1 {
+	width: 692px;
+	margin: 0 auto 50px;
+}
+
+.consulting {
+	margin-bottom: 40px;
+}
+
+.consulting__logo {
+	margin-bottom: 37px;
+
+}
+.consulting__title {
+	font-size: 30px;
+	font-weight: 600;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+
+.consulting__text {
+	color: #7D7D7D;
+	margin-bottom: 42px;
+	line-height: 1.4618;
+}
+
+.consulting__subtitle {
+	color: #6B77E5;
+	font-size: 20px;
+	margin-bottom: 12px;
+}
+
+.about-benefits-img {
+	vertical-align: top;
+}
+
+.benefits {
+	display: inline-block;
+	width: 50%;
+	padding-left: 28px;
+}
+
+.benefits__title {
+	font-size: 25px;
+	font-weight: 600;
+	margin-bottom: 26px;
+}
+.benefits__subtitle {
+	color: #40DDB6;
+	font-weight: 600;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+.benefits__list li {
+	margin-bottom: 35px;
+}
+
+.benefits__list li:last-child {
+	margin-bottom: 0;
+}
+/* task-2 */
+.what-we-do {
+	margin: 0 auto;
+	width: 1182px;
+	height: 518px;
+}
+
+.about {
+	display: inline-block;
+	width: 48%;
+	margin-right: 38px;
+	padding-top: 28px;
+}
+.about__title {
+	font-family: 'Inter', sans-serif;
+	color: #D06B00;
+	text-transform: uppercase;
+	font-size: 28px;
+	margin-bottom: 46px;
+}
+.about__subtitle {
+	font-family: 'DM Serif Text', sans-serif;
+	font-size: 59px;
+	line-height: 1.47;
+	color: #0E333D;
+	margin-bottom: 25px;
+}
+.about__text {
+	color: #474747;
+	line-height: 1.80;
+	font-size: 20px;
+}
+.about__img1 {
+	margin-right: 20px;
+}
+
+/* task */
+
+.task {
+	margin: 100px auto;
+	padding: 120px;
+}
+
+.task__title {
+	margin-bottom: 50px;
+	text-align: center;
+	text-shadow:10px 5px 7px #1a1f02;
+	font-size: 68px;
+	color: aqua;
+}
+.task__exemple-1 {
+	font-size: 20px;
+	width: 400px;
+	height: 50px;
+	display: inline-block;
+	background-color: #D06B00;
+	color: #0E333D;
+	overflow: scroll;
+}
+.task__exemple-2 {
+	display: inline-block;
+	width: 500px;
+	height: 300px;
+	margin-left: 100px;
+	background-color: #cdee14;
+	padding: 100px 50px 60px 80px ;
+}
+.task__exemple-3 {
+	display: inline-block;
+	margin: 90px 80px;
+	max-width: 300px;
+	max-height: 100px;
+	padding-bottom: 20px;
+	color: red;
+	background-color: #0b0c04;
+}
