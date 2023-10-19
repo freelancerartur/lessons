@@ -224,11 +224,11 @@ padding-left: 44px;
 
 .clothing__content-subtitle {
 	font-family: "CoreSansC-65Bold";
-	letter-spacing: 0.4;
+	letter-spacing: 0.4px;
 	margin-bottom: 25px;
 }
 .clothing__content-text p{
-	letter-spacing: 0.4;
+	letter-spacing: 0.4px;
 	padding-bottom: 20px;
 }
 
@@ -238,7 +238,7 @@ padding-left: 44px;
 .see-more {
 	color: #807D7E;
 	font-family: "CoreSansC-65Bold";
-	letter-spacing: 0.4;
+	letter-spacing: 0.4px;
 }
 
 .task {
